@@ -1,5 +1,7 @@
 # 추가
 model/
+credits.csv         
+# 사이즈가 너무 큼, Kaggle Movies dataset(https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
